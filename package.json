@@ -10,6 +10,11 @@
   "author": "Henrique Schreiner",
   "license": "MIT",
   "dependencies": {
+    "pug": "^3.0.3",
     "pug-cli": "^1.0.0-alpha6"
+  },
+  "overrides": {
+    "pug": "^3.0.3",
+    "pug-code-gen": "^3.0.3"
   }
 }
