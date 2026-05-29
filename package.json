@@ -10,7 +10,7 @@
   "author": "Henrique Schreiner",
   "license": "MIT",
   "dependencies": {
-    "pug": "^3.0.3",
+    "pug": "^3.0.3"
   },
   "overrides": {
     "pug": "^3.0.3",
